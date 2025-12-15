@@ -1,0 +1,20 @@
+{
+  "name": "12-dec-one",
+  "version": "1.0.0",
+  "description": "A Node.js Express.js tutorial server with Hello World and Good Evening endpoints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
